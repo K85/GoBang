@@ -1,0 +1,9 @@
+name: GoBang
+author: K85
+main: gobang.a
+version: 1.0
+softdepend: [Multiverse-Core]
+commands: 
+  GoBang: 
+    description: 五子棋插件
+    usage: §a指令错误,请输入§6/GoBang Help§a查看帮助
